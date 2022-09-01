@@ -1,5 +1,5 @@
 # LvckyWorld - Development
-![LvckyWorld-Banner](https://i.lvckyworld.net/lvcky/banner/newBanner.gif)
+![LvckyWorld-Banner](https://i.lvckyworld.net/lvcky/banner/newBanner.png)
 
 ## 👋🏻 Hey Du! 
 Wir sind <b>LvckyWorld</b>, der Dienstleister für sichere und performante Software zu günstigen Preisen.
