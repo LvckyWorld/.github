@@ -21,6 +21,6 @@ At LvckyWorld, our mission is to provide our customers with the best possible su
 To do this, we have a trained service and development team, because only in this way, can we guarantee that your and our expectations of ourselves can always be exceeded.
 
 You can find our website [here](https://lvckyworld.net)(German)
-[Imprint % Privacy Policy](https://lvckyworld.net)(German)
+[Imprint & Privacy Policy](https://lvckyworld.net/rights)(German)
 
 </details>
